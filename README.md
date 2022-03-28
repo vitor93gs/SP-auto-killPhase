@@ -11,7 +11,7 @@ Set keybinds:
 "0" - Create Mana Gem
 "." - Use Mana Gem
 
-
+Must Spec in Improoved Blizzard, Clearcasting, and Improoved chill. Blade of Eternal Darkness is also really good.
 
 ### Status:
 
