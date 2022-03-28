@@ -17,10 +17,6 @@ Must Spec in Improoved Blizzard, Clearcasting, and Improoved chill. Blade of Ete
 
 In development
 
-### `Try our beta Version now:`
-
-https://diet-based-recipes.netlify.app/
-
 ## DEVELOPER
 
 https://www.linkedin.com/in/vitor-gon%C3%A7alves-dos-santos-54a571168/
